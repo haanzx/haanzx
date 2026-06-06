@@ -17,4 +17,16 @@
 ![https://www.instagram.com/setiiono_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/roy-setiono-073661343/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+#### Play games with me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <img src="https://raw.githubusercontent.com/haanzx/haanzx/snake-output/snake.svg" alt="Snake animation" />
+
+###

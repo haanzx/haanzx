@@ -17,6 +17,4 @@
 ![https://www.instagram.com/setiiono_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/roy-setiono-073661343/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-#### My Github Stats
-
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haanzx&show_icons=true&theme=tokyonight)
+<img src="https://raw.githubusercontent.com/haanzx/haanzx/snake-output/snake.svg" alt="Snake animation" />

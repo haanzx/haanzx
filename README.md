@@ -1,43 +1,55 @@
-# Hi, I'm Roy Setiono 👋
+<h1 align="center">Hi, I'm Roy Setiono 👋</h1>
 
-![banner](img/github-header-banner.png)
-
-#### Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<p align="center">
+    <img src="img/github-header-banner.png" alt="banner" />
 </p>
 
-#### Connect with me
+<p align="center">
+Frontend Developer & Linux Enthusiast
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/setiiono_/)
+<p align="center">
+🌐 Building projects at <a href="https://sysorbit.my.id">sysorbit.my.id</a><br>
+🐧 Arch Linux + Hyprland<br>
+🚀 Learning modern web development with Astro<br>
+💡 Interested in self-hosting and homelab projects
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-setiono-073661343/)
+<h2 align="center">🛠 Tech Stack</h2>
 
-#### Website
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,cpp" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,astro,tailwind,vscode,git,github" />
+</p>
 
-🌐 https://sysorbit.my.id
+<h2 align="center">🌐 Connect With Me</h2>
 
-#### Stats
+<p align="center">
+    <a href="mailto:roysetiono25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/roysetiono">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://sysorbit.my.id">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" />
+    </a>
+</p>
 
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=haanzx&show_icons=true&theme=tokyonight)
+<h2 align="center">📊 Stats</h2>
 
-#### Play games with me
+<p align="center">
+    <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=haanzx&hide=HTML&layout=compact&theme=react" />
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=haanzx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="center">📊 Github Activity</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/haanzx/haanzx/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haanzx/haanzx/pacman-output/pacman-contribution-graph.svg">
+    </picture>
+</p>
